@@ -1,2 +1,2 @@
 # WhatsAppClone
-Android project
+Android project using Kotlin and Jetpack Compose
